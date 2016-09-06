@@ -36,7 +36,7 @@ Step 2: Simple offers
 There is a test suite which touches on some basic tests for the simple functionality requested above.
 
 
-in order to run the test can simply run mvn clean install from the command line.
+in order to run the test you can simply run mvn clean install from the command line.
 
 
 The code is tagged on step1  and step 2 so you can check the changes applied. accross both revisions.
